@@ -4,7 +4,6 @@ import math
 import json
 import os
 from datetime import datetime
-from threading import Thread
 import winsound
 
 class PomodoroApp:
